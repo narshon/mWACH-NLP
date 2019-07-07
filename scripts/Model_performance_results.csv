@@ -1,0 +1,10 @@
+,Model,Features,Acc_score,roc_auc_score,kfold_cv_acc,kfold_cv_roc,highest_predictor,lowest_predictor
+Model1,LogReg,"edd_wk,study_wk,past_response,native_langauge,delivery_status,swahili,english,luo",0.6858284660313557,0.7311323215893423,69.3804809866939,0.7378194115288936,"edd_wk,past_response,delivery_status","native_langauge,english,luo"
+Model2,GB,"edd_wk,study_wk,past_response,native_langauge,delivery_status,swahili,english,luo",0.7031970488779588,0.7512097865037255,71.31030938601462,0.756430781396619,"delivery_status,study_wk,past_response","swahili,english,native_langauge"
+Model3,GB,BoW,0.6657702650787553,0.7073549045786539,66.93057730660152,0.710639031743825,,
+Model4,LogReg on Bow + Features,"edd_wkBoW + ,study_wkBoW + ,past_responseBoW + ,native_langaugeBoW + ,delivery_statusBoW + ,swahiliBoW + ,englishBoW + ,luo",0.7184018440261237,0.7846452887409457,72.36847866740322,0.7869902922769274,,
+Model5,GB,BoW,0.6438040345821325,0.6759278978753552,64.09631030885132,0.6675126466192984,,
+Model6,GB,BoW,0.7031970488779588,0.7512097865037255,71.71515605756875,0.7747140864520722,,
+Model7,GB,Bi-grams,0.7231508165225744,0.7854534062983772,0.7248760981587684,0.788361715913767,,
+Model8,GB,Bigrams + Features,0.7104707012487992,0.7690083802746595,0.7169594184215083,0.7764273910328168,,
+Model10,GB,BoW,0.7031970488779588,0.7512097865037255,0.7169594184215083,0.7764273910328168,,
