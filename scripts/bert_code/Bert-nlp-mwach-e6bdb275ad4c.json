@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bert-nlp-mwach",
+  "private_key_id": "e6bdb275ad4c985ddac5e36a4df69257de88d7ab",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCi/LeAuWScUHNQ\n+lAe5JODeWdfL1hnp8kelTUz+HikqUnlf/NCxEH0JyDkbTy1ZA4a951x8QGSbfwY\ngDk1j4XWO9KC3DEOQ1pOGdpkX80tQUNhHDAVyM591yI5ib7gsAc0wt4WFPGXEO6z\n9X7ZF01i4VyhxH0kRlZalj8T2AgoBRaAu/1KngIMBRN775y5iCKhdDX3+761gleR\nNu9nhvClkPqCu0c90d7ptGP4XtfdM/e4+KV8Lx4PeBrDx1slsu5koCxthYjGIGnD\nBnRoVZR+FnC3IotqwvhMehtaopJBjxP7S13cwdY5ydh1ttDwhLyMHcCsUkidvL1f\n08Qd0ojjAgMBAAECggEAN2/DrpngWbaXcnyhUdCnR/m8Kkj9RcxxAOD5RqMFzePy\nyYe6owQD9tp0Op3ZH01X6t48BCxYP4j/TQoX61rUx+hzEqV4XgSUq6npeWiIbhMb\nquUeidpSOcU5095BOUVGPjDlvxcCkUJmHnmq2oYtgStsCW2+rt7pskgWTlaVd56w\nN21Ocxdoe04CpIWZhFZ8qnGKFewbZQzXv5ae7+fihpd5cT0B71NCG36WzVSMvQ3j\n/um4lE1IehagQqrWzj37/xiNjCESd9TarvwftSQK8MkhdRmo3sjeiMTGWhvrccrf\nL3eo6GhOn+zrV5/gS6ZQ9OMXKnShayTaWAjwZdVoMQKBgQDYcWfg/d7G/lYiJchb\nNr2GyW19j38kfFca/EzBfzh1gpcSW2qi9m9KVwFdso0U/KphvMOBcM1q7MJyIsNH\nHti1BjLvpCLE3ww5ibMKgv7OLl2M1V6BkPKXvmfuYW1HfXdshU+Z/DBYYLZL+WDp\nq9sgjxJLDMsd999bUCvvpud1aQKBgQDAxk3r/dm1Dl3lw/zmmcWUGqgd5wgfmhtA\nqktphGfDyxXttDCNWiAgV3o6/7D1+dp7V+/rF8CBqAIs9gLg38MC4ruZmKCOZc5e\nUwqvpj8JDK/HuxilEdOfpKs6RhfuchzbWvB4u9DLJavjEn4H73mtf/p/Dp6VuFcU\nBouPzTQGawKBgDqta/MEACxEcUdqpMmNqo3q96LtjxNuHhMzyP9AJSc+UwRoAh3R\n31PxCG7FZBgHc41xpjLmSNou+3wDzpruUuOonZB4F/D1YxQKL56u6rMswLHYenl3\nuTzIItbuVLjn28Nw1KazRsv+1Az+u3Y93/cQsm3kNwCV3VidAHxE7ETZAoGBAJok\n92Hg1hiEqGh1UuBBzU8kEZH3jvNWEryebzasfRx+Y8Zy8u/URSQXTtGmayYE58MB\nCgL+Nxx172dsP9j4k8LW8hNbi+bRWTbrR/wz/uuJjXU0EfzMSF+7GH+8VJ6B+Lkd\n+nNQGyCVuuAThVtrDezCDNdUJVKq2FZW9XnDJ/qJAoGAczUc9JUcY4RB7uu/NcRn\nov/IRkx6CWOuZBYeQ8mPhP2jEQ+OPBpTKpVaKT1U8bsXCtl9U/kGDVhPRO/N8dZV\nj6d5pNQPJyWum8Dfnni6oYgBpwC5AeXhkzYx94HvNPH3zcipJMoiAklB4giev/UT\n2ijiF5xuak1M9F7BKOmoi/c=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mwach-nlp@bert-nlp-mwach.iam.gserviceaccount.com",
+  "client_id": "106217839527630654154",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mwach-nlp%40bert-nlp-mwach.iam.gserviceaccount.com"
+}
